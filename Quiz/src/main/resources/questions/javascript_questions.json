@@ -1,0 +1,23 @@
+[
+    {
+      "questionText": "What does DOM stand for in JavaScript?",
+      "options": ["Document Object Model", "Document Oriented Model", "Dynamic Object Model", "Dynamic Object Method"],
+      "correctAnswer": "Document Object Model"
+    },
+    {
+      "questionText": "Which method is used to add an element to the end of an array in JavaScript?",
+      "options": ["push()", "add()", "append()", "insert()"],
+      "correctAnswer": "push()"
+    },
+    {
+      "questionText": "How do you declare a variable in JavaScript?",
+      "options": ["var variableName", "let variableName", "const variableName", "All of the above"],
+      "correctAnswer": "All of the above"
+    },
+    {
+      "questionText": "Which event is triggered when a user clicks on an element in JavaScript?",
+      "options": ["onclick", "onchange", "onhover", "onfocus"],
+      "correctAnswer": "onclick"
+    }
+  ]
+  

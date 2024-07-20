@@ -1,0 +1,23 @@
+[
+    {
+      "questionText": "What is the time complexity of binary search in a sorted array?",
+      "options": ["O(1)", "O(n)", "O(log n)", "O(n^2)"],
+      "correctAnswer": "O(log n)"
+    },
+    {
+      "questionText": "What data structure is used in the implementation of a queue?",
+      "options": ["Array", "Linked List", "Stack", "Tree"],
+      "correctAnswer": "Linked List"
+    },
+    {
+      "questionText": "Which algorithm is used to find the shortest path in a graph?",
+      "options": ["DFS", "BFS", "Dijkstra's Algorithm", "Kruskal's Algorithm"],
+      "correctAnswer": "Dijkstra's Algorithm"
+    },
+    {
+      "questionText": "What is the space complexity of an array with n elements?",
+      "options": ["O(1)", "O(n)", "O(n log n)", "O(n^2)"],
+      "correctAnswer": "O(n)"
+    }
+  ]
+  

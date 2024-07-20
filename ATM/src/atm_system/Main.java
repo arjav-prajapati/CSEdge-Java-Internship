@@ -18,3 +18,10 @@ public class Main {
         }));
     }
 }
+
+
+//for running program go to ATM/src then first compile the program by typing
+//javac atm_system/Main.java database/DatabaseHandler.java panels/*.java
+
+//then run the program by typing
+//java atm_system.Main

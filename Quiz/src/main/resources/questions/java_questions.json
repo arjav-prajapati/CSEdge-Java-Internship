@@ -1,0 +1,23 @@
+[
+    {
+      "questionText": "What is the default value of a boolean variable in Java?",
+      "options": ["true", "false", "0", "null"],
+      "correctAnswer": "false"
+    },
+    {
+      "questionText": "Which keyword is used to define a class in Java?",
+      "options": ["class", "define", "classify", "create"],
+      "correctAnswer": "class"
+    },
+    {
+      "questionText": "What does JVM stand for?",
+      "options": ["Java Virtual Machine", "Java Variable Machine", "Java Version Machine", "Java View Machine"],
+      "correctAnswer": "Java Virtual Machine"
+    },
+    {
+      "questionText": "Which collection class allows duplicate elements in Java?",
+      "options": ["HashSet", "TreeSet", "ArrayList", "LinkedHashSet"],
+      "correctAnswer": "ArrayList"
+    }
+  ]
+  

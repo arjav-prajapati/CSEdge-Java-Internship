@@ -1,0 +1,23 @@
+[
+    {
+      "questionText": "What does PHP stand for?",
+      "options": ["Private Hypertext Processor", "Personal Home Page", "PHP Hypertext Processor", "Programming Hypertext Processor"],
+      "correctAnswer": "PHP Hypertext Processor"
+    },
+    {
+      "questionText": "Which function is used to get the length of an array in PHP?",
+      "options": ["count()", "length()", "size()", "getLength()"],
+      "correctAnswer": "count()"
+    },
+    {
+      "questionText": "How do you create a variable in PHP?",
+      "options": ["$variableName", "var variableName", "variableName =", "create variableName"],
+      "correctAnswer": "$variableName"
+    },
+    {
+      "questionText": "Which function is used to include a file in PHP?",
+      "options": ["include()", "import()", "require()", "load()"],
+      "correctAnswer": "include()"
+    }
+  ]
+  
